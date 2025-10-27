@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": "b4c1",
+      "name": "NAVEEN KUMAR.A",
+      "email": "anaveenkumartnj@gmail.com",
+      "mobile": "06384906625",
+      "password": "23",
+      "confirm_password": "25"
+    },
+    {
+      "id": "42a7",
+      "name": "raju",
+      "email": "rajubai@gmail.com",
+      "mobile": "97919216568",
+      "password": "ch@ndru",
+      "confirm_password": "Ch@ndru"
+    }
+  ],
+  "Admin": [
+    {
+      "id": "6658",
+      "name": "anavee",
+      "email": "anaveenkumartnj@gmail.com",
+      "phone": "06384906625",
+      "password": "23",
+      "confirm_password": "32"
+    },
+    {
+      "id": "f41b",
+      "name": "NAVEEN KUMAR.A",
+      "email": "anaveenkumartnj@gmail.com",
+      "phone": "6384906625",
+      "password": "23",
+      "confirm_password": "25"
+    }
+  ],
+  "Bus": [
+    {
+      "id": "0a15",
+      "no": "25",
+      "name": "KSR Travels",
+      "image": "https://gst-contracts.s3.ap-southeast-1.amazonaws.com/uploads/bcc/cms/asset/avatar/18965/gallery_ga_7.png",
+      "from": "chennai",
+      "to": "Trichy",
+      "date": "2025-09-02",
+      "seats": "27"
+    },
+    {
+      "id": "88ce",
+      "no": "27",
+      "name": "Nandhi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9vtFgG83edXycRrxLf0eabZsgEQih_0wG0w&s",
+      "from": "Trichy",
+      "to": "SilkBoard",
+      "date": "2025-09-03",
+      "seats": "89"
+    },
+    {
+      "id": "f9c0",
+      "no": "87",
+      "name": "US Travels",
+      "image": "https://gst-contracts.s3.ap-southeast-1.amazonaws.com/uploads/bcc/cms/asset/avatar/318027/banner_Ba-22.jpg",
+      "from": "Chennai ",
+      "to": "Trichy",
+      "date": "2025-09-07",
+      "seats": "25"
+    },
+    {
+      "id": "893e",
+      "no": "79",
+      "name": "SVN Travels",
+      "image": "https://gst-contracts.s3.ap-southeast-1.amazonaws.com/uploads/bcc/cms/asset/avatar/88916/banner_banner.png",
+      "from": "Delhi",
+      "to": "Rajasthan ",
+      "date": "2025-09-01",
+      "seats": "46"
+    },
+    {
+      "id": "c224",
+      "no": "01",
+      "name": "NAVEEN Trasnsports",
+      "image": "https://nvbus.in/naveentransport/slider/images/site/online-bus-ticket-booking-naveen-transport-08.webp",
+      "from": "Chennai",
+      "to": "Pondicherry ",
+      "date": "2025-09-16",
+      "seats": "56"
+    },
+    {
+      "id": "4820",
+      "no": "22",
+      "name": "A1 Travels",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvHOZBIwvCLGS5JUlU7lAipfs_TZDnNs1UbmOCGH_34Um5hy-QhYWwsXN0euZNPKxavjQ&usqp=CAU",
+      "from": "KaniyaKumari",
+      "to": "Chennai ",
+      "date": "2025-08-31",
+      "seats": "23"
+    }
+  ]
+}
